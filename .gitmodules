@@ -3,3 +3,53 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AirMonitor"]
+	path = AirMonitor
+	url = https://github.com/mazamascience/airmonitor
+	shallow = true
+	registered = true
+[submodule "AirSensor"]
+	path = AirSensor
+	url = https://github.com/mazamascience/airsensor
+	shallow = true
+	registered = true
+[submodule "beakr"]
+	path = beakr
+	url = https://github.com/mazamascience/beakr
+	shallow = true
+	registered = true
+[submodule "MazamaCoreUtils"]
+	path = MazamaCoreUtils
+	url = https://github.com/mazamascience/mazamacoreutils
+	shallow = true
+	registered = true
+[submodule "MazamaLocationUtils"]
+	path = MazamaLocationUtils
+	url = https://github.com/mazamascience/mazamalocationutils
+	shallow = true
+	registered = true
+[submodule "MazamaRollUtils"]
+	path = MazamaRollUtils
+	url = https://github.com/mazamascience/mazamarollutils
+	shallow = true
+	registered = true
+[submodule "MazamaSpatialPlots"]
+	path = MazamaSpatialPlots
+	url = https://github.com/mazamascience/mazamaspatialplots
+	shallow = true
+	registered = true
+[submodule "MazamaSpatialUtils"]
+	path = MazamaSpatialUtils
+	url = https://github.com/mazamascience/mazamaspatialutils
+	shallow = true
+	registered = true
+[submodule "MazamaTimeSeries"]
+	path = MazamaTimeSeries
+	url = https://github.com/mazamascience/mazamatimeseries
+	shallow = true
+	registered = true
+[submodule "PWFSLSmoke"]
+	path = PWFSLSmoke
+	url = https://github.com/mazamascience/pwfslsmoke
+	shallow = true
+	registered = true

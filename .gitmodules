@@ -8,11 +8,6 @@
 	url = https://github.com/mazamascience/airmonitor
 	shallow = true
 	registered = true
-[submodule "AirSensor"]
-	path = AirSensor
-	url = https://github.com/mazamascience/airsensor
-	shallow = true
-	registered = true
 [submodule "beakr"]
 	path = beakr
 	url = https://github.com/mazamascience/beakr

@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "AirSensor",
-    "oncran": true
-  },
-  {
     "package": "beakr",
     "oncran": true
   },

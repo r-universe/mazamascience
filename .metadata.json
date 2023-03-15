@@ -1,5 +1,29 @@
 [
   {
+    "package": "MazamaTimeSeries",
+    "oncran": true
+  },
+  {
+    "package": "MazamaCoreUtils",
+    "oncran": true
+  },
+  {
+    "package": "PWFSLSmoke",
+    "oncran": true
+  },
+  {
+    "package": "MazamaRollUtils",
+    "oncran": true
+  },
+  {
+    "package": "MazamaLocationUtils",
+    "oncran": true
+  },
+  {
+    "package": "MazamaSpatialUtils",
+    "oncran": true
+  },
+  {
     "package": "AirMonitor",
     "oncran": true
   },
@@ -8,31 +32,7 @@
     "oncran": true
   },
   {
-    "package": "MazamaCoreUtils",
-    "oncran": true
-  },
-  {
-    "package": "MazamaLocationUtils",
-    "oncran": true
-  },
-  {
-    "package": "MazamaRollUtils",
-    "oncran": true
-  },
-  {
     "package": "MazamaSpatialPlots",
-    "oncran": true
-  },
-  {
-    "package": "MazamaSpatialUtils",
-    "oncran": true
-  },
-  {
-    "package": "MazamaTimeSeries",
-    "oncran": true
-  },
-  {
-    "package": "PWFSLSmoke",
     "oncran": true
   }
 ]

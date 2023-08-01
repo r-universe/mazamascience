@@ -5,9 +5,6 @@
 [submodule "AirMonitor"]
 	path = AirMonitor
 	url = https://github.com/mazamascience/airmonitor
-[submodule "beakr"]
-	path = beakr
-	url = https://github.com/mazamascience/beakr
 [submodule "MazamaCoreUtils"]
 	path = MazamaCoreUtils
 	url = https://github.com/mazamascience/mazamacoreutils
@@ -29,3 +26,6 @@
 [submodule "PWFSLSmoke"]
 	path = PWFSLSmoke
 	url = https://github.com/mazamascience/pwfslsmoke
+[submodule "beakr"]
+	path = beakr
+	url = https://github.com/mazamascience/beakr

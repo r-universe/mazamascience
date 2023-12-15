@@ -23,9 +23,6 @@
 [submodule "MazamaTimeSeries"]
 	path = MazamaTimeSeries
 	url = https://github.com/mazamascience/mazamatimeseries
-[submodule "PWFSLSmoke"]
-	path = PWFSLSmoke
-	url = https://github.com/mazamascience/pwfslsmoke
 [submodule "beakr"]
 	path = beakr
 	url = https://github.com/mazamascience/beakr
